@@ -15,27 +15,26 @@
 - **Data Structures**: List
 
 ## How to Use
-
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/HireFlow.git
+   git clone https://github.com/yourusername/CourseMate.git
    ```
 
 2. **Compile the Code**
    Navigate to the project directory and compile the source files:
    ```bash
-   javac -d bin src/*.java
+   javac -d bin Project1/src/edu/ncsu/csc216/app_manager/*.java
    ```
 
 3. **Run the Application**
    Execute the main class to launch the application:
    ```bash
-   java -cp bin MainClassName
+   java -cp bin Project1/src/edu/ncsu/csc216/app_manager/view/ui/AppManagerGUI.java
    ```
 
-4. **Load Applications**
-   Use the file menu to load applications from a text file for processing.
+4. **Load Data**
+   Use the file menu to load existing data from a text file.
 
-5. **Save Applications**
-   Save updated application data to a text file for future reference.
+5. **Save Data**
+   Save your changes and course allocations to a text file for future use.
 
