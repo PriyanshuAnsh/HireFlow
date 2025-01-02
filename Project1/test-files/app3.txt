@@ -1,0 +1,4 @@
+*3,,Old,Application summary,reviewer,true,
+-[Review] Note 1
+-[States don't matter here] Note 2
+-[When the whole application is broken] Note 3

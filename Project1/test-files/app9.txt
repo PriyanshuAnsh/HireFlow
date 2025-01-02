@@ -1,0 +1,4 @@
+*2,Interview,New,Application summary,reviewer,false,
+-[Review] Note 1
+-[You can't have a new application in interview state] Note 2
+that goes on a new line

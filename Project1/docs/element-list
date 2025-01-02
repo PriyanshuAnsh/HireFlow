@@ -1,0 +1,5 @@
+edu.ncsu.csc216.app_manager.model.application
+edu.ncsu.csc216.app_manager.model.command
+edu.ncsu.csc216.app_manager.model.io
+edu.ncsu.csc216.app_manager.model.manager
+edu.ncsu.csc216.app_manager.view.ui

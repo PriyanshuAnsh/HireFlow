@@ -1,0 +1,3 @@
+*5,Interview,Old,Application summary,reviewer,false,
+-[Review] note 1
+-[Interview] note 2

@@ -1,0 +1,5 @@
+*1,Offer,Old,Application summary,reviewer2,true,
+-[Review] note 1
+-[Interview] note 2
+-[RefCheck] note 3
+-[Offer] note 4

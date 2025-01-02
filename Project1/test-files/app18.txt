@@ -1,0 +1,4 @@
+*-4,Interview,Old,Application summary,reviewer,false,
+-[Review] Note 1
+-[Interview] Note 2
+that goes on a new line

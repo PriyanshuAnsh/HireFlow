@@ -1,0 +1,7 @@
+*6,Closed,Old,,reviewer,false,OfferCompleted
+-[Review] Note 1
+that goes on a new line
+-[Interview] Note 2
+-[RefCheck] Note 3
+-[Offer] Note 4
+-[Closed] Note 5

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"edu.ncsu.csc216.app_manager.model.application"},{"l":"edu.ncsu.csc216.app_manager.model.command"},{"l":"edu.ncsu.csc216.app_manager.model.io"},{"l":"edu.ncsu.csc216.app_manager.model.manager"},{"l":"edu.ncsu.csc216.app_manager.view.ui"}];updateSearchResults();

@@ -1,0 +1,6 @@
+*4,Offer,Old,Application summary,,true,
+-[Review] Note 1
+-[Interview] Note 2
+that goes on a new line
+-[RefCheck] Note 3
+-[Offer state should have reviewer] Note 4

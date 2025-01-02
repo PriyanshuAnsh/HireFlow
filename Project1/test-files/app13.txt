@@ -1,0 +1,5 @@
+*4,Waitlist,Old,Application summary,reviewer,false,ReferenceCheckCompleted
+-[Review] Note 1
+-[Interview] Note 2
+that goes on a new line
+-[Waitlist with invalid resolution type] Note 3

@@ -1,0 +1,2 @@
+*4,Review,New,Application summary,,true,
+-[Review that is processed] Note 1

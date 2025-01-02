@@ -1,0 +1,28 @@
+*1,Closed,New,My First Application,false,ReviewCompleted
+-[Review] Application Submitted
+-[Closed] Rejecting Application
+*3,Interview,Old,Application summary,reviewer,false,
+-[Review] Note 1
+-[Interview] Note 2
+that goes on a new line
+*7,RefCheck,Old,Application summary,reviewer,true,
+-[Review] Note 1
+-[Interview] Note 2
+-[RefCheck] Note 3
+*14,Waitlist,New,Application summary,,false,ReviewCompleted
+-[Review] Note 1
+-[Waitlist] Note 2
+that goes on a new line
+*15,Closed,Hired,Application summary,reviewer,true,OfferCompleted
+-[Review] Note 1
+that goes on a new line
+-[Interview] Note 2
+-[RefCheck] Note 3
+-[Offer] Note 4
+-[Closed] Note 6
+*16,Offer,Old,Application summary,reviewer,true,
+-[Review] Note 1
+that goes on a new line
+-[Interview] Note 2
+-[RefCheck] Note 3
+-[Offer] Note 4

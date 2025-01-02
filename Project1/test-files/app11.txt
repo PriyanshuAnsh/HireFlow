@@ -1,0 +1,4 @@
+*3,RefCheck,Old,Application summary,reviewer,false,
+-[Review] Note 1
+-[Interview] Note 2
+-[Paperwork should be processed before RefCheck state] Note 3
